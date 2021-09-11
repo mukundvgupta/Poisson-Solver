@@ -1,0 +1,4 @@
+36      NX, NY, NZ
+1E-8    TOL        
+50      MAX_IT
+2.0     beta, coeff. of discretization factor 

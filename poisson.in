@@ -1,0 +1,5 @@
+64      NX, NY, NZ
+1E-6    TOL        
+1000    MAX_IT
+1       PRECONDTION
+8       ITNUM 
